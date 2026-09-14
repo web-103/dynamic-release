@@ -1,0 +1,9 @@
+{
+  "name": "github-version-release-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Demo repository for automatic semantic versioning and production release notes on merged PRs.",
+  "scripts": {
+    "test": "node --check .github/scripts/create-release.js"
+  }
+}

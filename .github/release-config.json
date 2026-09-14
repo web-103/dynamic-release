@@ -1,0 +1,28 @@
+{
+  "initialVersion": "0.1.0",
+  "defaultBump": "patch",
+  "labels": {
+    "breaking": "major",
+    "feature": "minor",
+    "feat": "minor",
+    "fix": "patch",
+    "bugfix": "patch",
+    "docs": "patch",
+    "chore": "patch",
+    "refactor": "patch",
+    "test": "patch",
+    "ci": "patch"
+  },
+  "sections": {
+    "breaking": "Breaking Changes",
+    "feature": "Features",
+    "feat": "Features",
+    "fix": "Fixes",
+    "bugfix": "Fixes",
+    "docs": "Documentation",
+    "chore": "Chores",
+    "refactor": "Refactoring",
+    "test": "Tests",
+    "ci": "CI/CD"
+  }
+}
